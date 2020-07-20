@@ -1,2 +1,2 @@
 # PatternMatching-Algorithm
-hw7.pdf
+Please check hw7.pdf for the descriptions of this project.
